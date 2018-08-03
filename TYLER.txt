@@ -4,4 +4,3 @@ Favorite Animal: Tiger
 added on fav color
 Blue
 Favorite Noise: Music
-
